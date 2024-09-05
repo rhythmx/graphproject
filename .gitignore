@@ -1,0 +1,8 @@
+*.aux
+*.auxlock
+*.log
+main.pdf
+tikz/*.dpth
+tikz/*.log
+tikz/*.pdf
+tikz/*.md5
